@@ -1,0 +1,25 @@
+.image{
+   width: 180px;   
+}
+.actives{
+   color: gold !important;
+   
+}
+.activesDropdown{
+   background-color: rgb(233, 230, 230);
+   
+}
+.activesDropdown2:hover{
+   background-color: rgb(206, 206, 206);
+   
+}
+.claseActiva {
+   color: gold;
+   margin: 30px;
+ }
+ 
+ .claseInactiva {
+   color: #282c34;
+   margin: 30px;
+ }
+
